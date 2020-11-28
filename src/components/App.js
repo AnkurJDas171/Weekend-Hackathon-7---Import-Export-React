@@ -16,4 +16,5 @@ const App = () => {
   );
 };
 
+export default App;
 export { Heading, InputQuery, SubHeading, SubmitButton };
